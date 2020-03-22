@@ -56,7 +56,6 @@
     "gh-pages": "^2.1.1",
     "json-loader": "^0.5.7",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
-    "puppeteer": "^1.20.0",
     "raw-loader": "^3.1.0",
     "shx": "^0.3.2",
     "style-loader": "^1.0.0",
